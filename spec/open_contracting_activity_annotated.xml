@@ -61,6 +61,7 @@
             </element>
          </contract>
          <date-award>Date contract awarded.</date-award>
+         <fiscal-year-award>Fiscal year of contract award. Not always the calendar year of the award.</fiscal-year-award>
          <date-contractsigned>Date contract signed.</date-contractsigned>
          <date-work-commence-agreed>Date agreed for start of work / delivery / performance phase</date-work-commence-agreed>
          <date-work-end-agreed>Date agreed for end of work / delivery / performance phase</date-work-end-agreed>

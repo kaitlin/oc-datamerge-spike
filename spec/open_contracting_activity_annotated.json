@@ -47,6 +47,7 @@
         "award": {
             "@last-updated-datetime": "DateTime stamp of date this document was last updated.",
             "date-award": "Date contract awarded.",
+            "fiscal-year-award": "Fiscal year of the contract award. Not always the calendar year of award.",
             "date-contractsigned": "Date contract signed.",
             "selection-method": "Method used to select contracted party.",
             "total-award": "The total amount awarded for this contract.",
